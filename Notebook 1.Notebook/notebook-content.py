@@ -33,6 +33,7 @@
 
 df = spark.sql("SELECT * FROM SpotifyLakehouse.dataset WHERE artists ILIKE 'Caravan Palace' LIMIT 10")
 display(df)
+hey there
 
 # METADATA ********************
 
