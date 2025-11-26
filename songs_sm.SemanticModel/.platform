@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "songs_sm"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "53b28057-fd5a-9389-4a20-a683299fbb6c"
+  }
+}
